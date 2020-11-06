@@ -1,0 +1,12 @@
+.message {
+  background-color: var(--color-text-tertiary);
+  padding: 80px;
+
+  display: flex;
+justify-content: center;
+  align-items: center;
+  h2{
+    color: var(--color-text-tertiary);
+    text-align: center;
+  }
+}
